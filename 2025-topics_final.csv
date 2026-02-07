@@ -1,57 +1,57 @@
-phrase,count,csv_source
-Galamsey/illegal mining,8867,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Jobs,3077,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Training,3022,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Research,2498,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Infrastructure,2435,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Construction,2071,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Skills,1887,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Employment,1355,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Mining,1301,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Job Creation,1277,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Production,1276,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Investments,1172,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Agribusiness,1145,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Entrepreneurship,948,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-24-Hour Economy,868,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Illegal Mining Activities,839,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Artificial Intelligence,838,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Energy sector,779,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Electricity,730,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Innovations,706,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Green Transition,651,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Engineering,638,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Reform,614,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Digital Technology,610,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Manufacturing,574,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Youth Development,563,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Procurement,538,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Digital Transformation,533,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Infrastructure development,513,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-ICT,480,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Community Development,451,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Renewable energy,446,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Medicine,408,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Higher Education,405,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Mathematics,405,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Breast cancer,404,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Youth Empowerment,399,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Diabetes,398,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Capacity Building,398,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Creative Arts,386,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Free SHS,384,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Farming,384,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Banking,383,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Insurance,376,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Nutrition,373,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-TVET,370,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Economics,369,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Rehabilitation,367,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Export,367,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Mental Health,364,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Cervical cancer,364,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Hypertension,362,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-NCDs,358,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-STEM,352,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Public education,350,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
-Digital platforms,349,"citinewsroom_tokenized, ghana-news-agency_tokenized, ghanaweb_tokenized, graphic-online_tokenized, myjoyonline_tokenized"
+phrase,count
+Galamsey/illegal mining,8867
+Jobs,3077
+Training,3022
+Research,2498
+Infrastructure,2435
+Construction,2071
+Skills,1887
+Employment,1355
+Mining,1301
+Job Creation,1277
+Production,1276
+Investments,1172
+Agribusiness,1145
+Entrepreneurship,948
+24-Hour Economy,868
+Illegal Mining Activities,839
+Artificial Intelligence,838
+Energy sector,779
+Electricity,730
+Innovations,706
+Green Transition,651
+Engineering,638
+Reform,614
+Digital Technology,610
+Manufacturing,574
+Youth Development,563
+Procurement,538
+Digital Transformation,533
+Infrastructure development,513
+ICT,480
+Community Development,451
+Renewable energy,446
+Medicine,408
+Higher Education,405
+Mathematics,405
+Breast cancer,404
+Youth Empowerment,399
+Diabetes,398
+Capacity Building,398
+Creative Arts,386
+Free SHS,384
+Farming,384
+Banking,383
+Insurance,376
+Nutrition,373
+TVET,370
+Economics,369
+Rehabilitation,367
+Export,367
+Mental Health,364
+Cervical cancer,364
+Hypertension,362
+NCDs,358
+STEM,352
+Public education,350
+Digital platforms,349
