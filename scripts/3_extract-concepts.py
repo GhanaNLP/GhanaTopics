@@ -28,7 +28,7 @@ import os
 # -----------------------------------------------------------
 # CONFIG
 # -----------------------------------------------------------
-NVIDIA_API_KEY = "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"  # ← put your NVIDIA API key here
+NVIDIA_API_KEY = "NVIDIA-BUILD-API-KEY-HERE"  # ← put your NVIDIA API key here
 client = OpenAI(base_url="https://integrate.api.nvidia.com/v1", api_key=NVIDIA_API_KEY)
 MODEL = "meta/llama-4-maverick-17b-128e-instruct"  # meta/llama-3.3-70b-instruct # meta/llama-4-maverick-17b-128e-instruct
 BATCH_SIZE = 300  # keep as you wish

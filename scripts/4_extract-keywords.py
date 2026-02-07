@@ -29,7 +29,7 @@ import os
 # -----------------------------------------------------------
 # CONFIG
 # -----------------------------------------------------------
-NVIDIA_API_KEY = "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"  # ← put your NVIDIA API key here
+NVIDIA_API_KEY = "NVIDIA-BUILD-API-KEY-HERE"  # ← put your NVIDIA API key here
 client = OpenAI(base_url="https://integrate.api.nvidia.com/v1", api_key=NVIDIA_API_KEY)
 MODEL = "moonshotai/kimi-k2-instruct-0905" 
 BATCH_SIZE = 300 
