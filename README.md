@@ -1,8 +1,15 @@
 # Ghana Topics
 
-A collaborative public information project to identify key topics that appeared frequently in Ghanaian news annually.
-The current results are from analysing news articles published in 2025.
+A collaborative public information project to identify key topics that appeared frequently in Ghanaian news annually. The current results are from analyzing over 61,000 news articles published in 2025 across 5 major Ghanaian news outlets. Using NLP techniques and AI-powered classification, we extracted and filtered keywords to surface the topics dominating the news cycle.
 
+## Key Statistics
+
+- **Total sentences processed:** 959,502
+- **Total articles analyzed:** 61,018
+- **Initial unique noun phrases:** 1,393,240
+- **Total phrase occurrences:** 5,949,477
+- **Average phrases per article:** 21.71
+- **Minimum article threshold for inclusion:** 20 articles
 
 ------
 
