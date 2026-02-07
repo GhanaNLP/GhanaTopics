@@ -8,8 +8,6 @@ Ghana Topics is a collaborative public information project to identify key topic
 - **Total articles analyzed:** 61,018
 - **Initial unique noun phrases:** 1,393,240
 - **Total phrase occurrences:** 5,949,477
-- **Average phrases per article:** 21.71
-- **Minimum article threshold for inclusion:** 20 articles
 
 ------
 
